@@ -2,4 +2,7 @@ Part 1: The Basics of Git
 * Git is used for version control.
 
 Part 2: Create a new reopository from the command line
-* Use git init ./ to initialize a new repository. 
+* Use git init ./ to initialize a new repository.
+
+Part 3: Tracking changes with git
+* this is what we are working on now. 
